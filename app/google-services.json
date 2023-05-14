@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023629197201",
+    "project_id": "revisebuddy-c9f28",
+    "storage_bucket": "revisebuddy-c9f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023629197201:android:bd1eadabf5cd4580f0e430",
+        "android_client_info": {
+          "package_name": "com.example.revisebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023629197201-ll7jknjekkghduahs50huca7pnfpbt5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZB5vMD29KadMZNj4FW48mHK39nMDohX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023629197201-ll7jknjekkghduahs50huca7pnfpbt5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
